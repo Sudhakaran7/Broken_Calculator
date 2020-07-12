@@ -1,0 +1,33 @@
+Nishanth broken the calculator of ravi's,
+so ravi was so angry, so initially there'll be a number displayed on the display X, 
+the calculator can do only two operations, 
+Double: Multiply the number on the display by 2, or;
+Decrement: Subtract 1 from the number on the display.
+Ravi have to print the number Y with the given X with those two operations.
+help ravi to do that.
+
+input description:
+two numbers X and Y
+
+Output description:
+Print the number of times to print the number Y with the given X.
+
+Sample Input:
+2 3
+
+Sample output:
+2
+
+Explanation:
+Double the 2 it becames 4, then subtract 1 from that 4
+so two times we have to operations so the output is 2.
+
+Sample input:
+4 6
+
+Sample output:
+2
+
+Explanation:
+Subtract the 4 by 1, so it'll become 3 and double the three, so we need two operations,
+so the output is 2.
